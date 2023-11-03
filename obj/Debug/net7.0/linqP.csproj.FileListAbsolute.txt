@@ -1,0 +1,14 @@
+C:\Users\braya\OneDrive\Documentos\projectsNetCore\linqP\linqP\bin\Debug\net7.0\linqP.exe
+C:\Users\braya\OneDrive\Documentos\projectsNetCore\linqP\linqP\bin\Debug\net7.0\linqP.deps.json
+C:\Users\braya\OneDrive\Documentos\projectsNetCore\linqP\linqP\bin\Debug\net7.0\linqP.runtimeconfig.json
+C:\Users\braya\OneDrive\Documentos\projectsNetCore\linqP\linqP\bin\Debug\net7.0\linqP.dll
+C:\Users\braya\OneDrive\Documentos\projectsNetCore\linqP\linqP\bin\Debug\net7.0\linqP.pdb
+C:\Users\braya\OneDrive\Documentos\projectsNetCore\linqP\linqP\obj\Debug\net7.0\linqP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braya\OneDrive\Documentos\projectsNetCore\linqP\linqP\obj\Debug\net7.0\linqP.AssemblyInfoInputs.cache
+C:\Users\braya\OneDrive\Documentos\projectsNetCore\linqP\linqP\obj\Debug\net7.0\linqP.AssemblyInfo.cs
+C:\Users\braya\OneDrive\Documentos\projectsNetCore\linqP\linqP\obj\Debug\net7.0\linqP.csproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Documentos\projectsNetCore\linqP\linqP\obj\Debug\net7.0\linqP.dll
+C:\Users\braya\OneDrive\Documentos\projectsNetCore\linqP\linqP\obj\Debug\net7.0\refint\linqP.dll
+C:\Users\braya\OneDrive\Documentos\projectsNetCore\linqP\linqP\obj\Debug\net7.0\linqP.pdb
+C:\Users\braya\OneDrive\Documentos\projectsNetCore\linqP\linqP\obj\Debug\net7.0\linqP.genruntimeconfig.cache
+C:\Users\braya\OneDrive\Documentos\projectsNetCore\linqP\linqP\obj\Debug\net7.0\ref\linqP.dll
